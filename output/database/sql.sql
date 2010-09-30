@@ -1,3 +1,3 @@
-blogadmin=bloguser
-blogpassword=blogpaswd
-blogtitle=blogtitle
+blogadmin=phpmax
+blogpassword=ahmedalipasswds
+blogertitle=GEEKS ARE HELPFULL

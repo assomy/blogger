@@ -1,0 +1,3 @@
+blogadmin=bloguser
+blogpassword=blogpaswd
+blogertitle=blogtitle
